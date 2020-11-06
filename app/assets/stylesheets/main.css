@@ -2449,17 +2449,23 @@ input, select, textarea {
 
 	#main {
 		margin-bottom: 0;
+		padding-top: 6.25em;
 		
 	}
 
 		#main section:first-of-type {
 			padding-top: 2em;
+			
 		}
 
-		#main p{
-			font-size: 1,5625em;
-			margin-left: 7.5em;			
-		}
+/* Helios img */
+
+	.helios{
+		margin: auto;
+		display: block;
+	}
+
+
 
 /* Footer */
 
